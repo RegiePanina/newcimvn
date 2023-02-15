@@ -1,4 +1,4 @@
-package ru.netology.statistic
+package ru.netology.statistic.service;
 public class StatisticsService {
     /**
      * Calculate index of max income
